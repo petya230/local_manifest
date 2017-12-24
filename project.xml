@@ -1,8 +1,8 @@
 <manifest>
   <!-- Huawei P9 Lite -->
-  <project path="device/huawei/vns" name="OpenKirin/android_device_huawei_vns" revision="7.x" />
-  <project path="kernel/huawei/vns" name="OpenKirin/android_kernel_huawei_vns" revision="7.x" />
-  <project path="vendor/huawei/vns" name="OpenKirin/android_vendor_huawei_vns" revision="7.x" />
+  <project path="device/huawei/vns" name="petya230/android_device_huawei_vns" revision="7.x" />
+  <project path="kernel/huawei/vns" name="petya230/android_kernel_huawei_vns" revision="7.x" />
+  <project path="vendor/huawei/vns" name="petya230/android_vendor_huawei_vns" revision="7.x" />
 
   <!-- patches -->
   <project path="frameworks/native" name="HuaweiOSP/android_frameworks_native" revision="cm-14.1" />
