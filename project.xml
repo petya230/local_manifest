@@ -3,16 +3,4 @@
   <project path="device/huawei/vns" name="petya230/android_device_huawei_vns" revision="7.x" />
   <project path="kernel/huawei/vns" name="petya230/android_kernel_huawei_vns" revision="7.x" />
   <project path="vendor/huawei/vns" name="petya230/android_vendor_huawei_vns" revision="7.x" />
-
-  <!-- patches -->
-  <project path="frameworks/native" name="HuaweiOSP/android_frameworks_native" revision="cm-14.1" />
-  <project path="system/bt" name="HuaweiOSP/android_system_bt" revision="cm-14.1" />
-
-  <!-- NFC -->
-  <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" />
-  <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" />
-  <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" />
-
-  <!-- device settings -->
-  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
 </manifest>
